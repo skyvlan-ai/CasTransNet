@@ -1,5 +1,4 @@
-# Channel prior convolutional attention for medical image segmentation
-
+# CasTransNet: Transformer-based Cascading U-Net Architecture for Medical Image Segmentation
 by Yong Wang, LuluZhang*, Yizhou Ding 
 
 ## Installation
